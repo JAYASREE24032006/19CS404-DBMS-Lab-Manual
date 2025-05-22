@@ -165,5 +165,5 @@ SELECT column1, column2 FROM table_name WHERE condition;
 
 ![Output10](output.png)
 
-## RESULT
+## RESULT:
 Thus, the SQL queries to implement DML commands have been executed successfully.
